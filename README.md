@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E0F4FF,50:87CEEB,100:1E90FF&height=200&section=header&text=Han-wo%20GitHub&fontSize=50&fontColor=FFFFFF&animation=twinkling&fontAlignY=35&desc=성장하는%20프론트엔드%20개발자&descAlignY=55&descAlign=50&descSize=20&fontAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E0F4FF,50:87CEEB,100:1E90FF&height=250&section=header&text=Han-wo%20GitHub&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Frontend%20Developer%20|%20Always%20Learning&descAlignY=60&descAlign=50&descSize=22&fontAlign=50&stroke=4682B4&strokeWidth=2" />
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=22&pause=1000&color=87CEEB&center=true&vCenter=true&multiline=true&width=500&height=100&lines=Frontend+Developer;Always+learning+new+things;Passionate+about+web+development" alt="Typing SVG" />
+<div align="center" style="margin-top: -20px;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=4682B4&center=true&vCenter=true&width=500&height=70&lines=Building+creative+web+solutions;Passionate+about+user+experience;Turning+ideas+into+reality" alt="Typing SVG" />
 </div>
 
 <div style="text-align: left; margin-top: 30px;">
