@@ -23,7 +23,7 @@
   <div align="center" style="margin-top: 15px; background-color: #F0F8FF; padding: 15px; border-radius: 10px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
     <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px;">
       <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,styledcomponents,tailwind,sass&perline=9" width="450" />
-      <img src="https://skillicons.dev/icons?i=firebase,flask,git,python&perline=9" width="200" />
+      <img src="https://skillicons.dev/icons?i=python&perline=9" width="45" />
       <img src="https://tanstack.com/_build/assets/logo-color-600w-Bx4vtR8J.png" alt="tanstack-query" width="45" height="45" style="margin: 2px;"/>
       <img src="https://raw.githubusercontent.com/pmndrs/jotai/main/img/jotai-mascot.png" alt="Jotai" width="45" height="45 style="margin: 2px;" />
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/storybook/storybook-original.svg" alt="storybook" width="45" height="45" style="margin: 2px;"/>
