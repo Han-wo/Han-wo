@@ -31,6 +31,29 @@
   </div>
 </div>
 
+## 🏅 Certifications
+
+<div align="center">
+  <a href="https://www.credly.com/badges/59baa90c-a357-4429-b54c-8d949030bd14">
+    <img src="https://images.credly.com/size/220x220/images/f2040db3-3904-4240-8966-e87b1510bea0/blob" alt="Claude Certified Architect - Foundations" width="150" />
+  </a>
+  <br/>
+  <b>Claude Certified Architect – Foundations</b> · Anthropic
+  <br/>
+  <sub>Issued Aug 2026 · <a href="https://www.credly.com/badges/59baa90c-a357-4429-b54c-8d949030bd14">Verify on Credly</a></sub>
+</div>
+
+<details>
+<summary>📄 수료증 보기</summary>
+<div align="center">
+  <a href="./certificates/claude-certified-architect-certificate.pdf">
+    <img src="./certificates/claude-certified-architect-certificate.png" width="500" />
+  </a>
+  <br/>
+  <sub>이미지 클릭 시 PDF 원본이 열립니다</sub>
+</div>
+</details>
+
 ## 📊 GitHub Activity
 
 <div align="center">
